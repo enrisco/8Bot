@@ -1,0 +1,7 @@
+﻿Uninstalling assembly 'C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Release\8Bot.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Release\8Bot.exe
+   logfile = C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Release\8Bot.InstallLog
+Removing EventLog source 8Bot.
+Service 8Bot is being removed from the system...
+Service 8Bot was successfully removed from the system.
