@@ -11,9 +11,9 @@ Rockstar Games Launcher.
 8Bot Configuration.exe. Um instalador irá 
 aparecer lhe guiando pela instalação.
 	O bot usa a pasta "Addons" como
-fonte para instalar seus modss, por isso, use
+fonte para instalar seus mods, por isso, use
 ela para colocar todos os arquivos. (estes serão 
-jogados a pasta raiz do game, se você precisa
+jogados à pasta raiz do game, se você precisa
 substituir um arquivo ja existente que está em 
 uma pasta, crie uma de mesmo nome e coloque seu 
 arquivo dentro).
